@@ -1,2 +1,2 @@
 # Sabaris-art-gallery
-Welcome to Sabari's Art Gallery web app
+Welcome to Sabari's Art Gallery!
